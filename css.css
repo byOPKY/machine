@@ -1,0 +1,29 @@
+body{
+	background-color: #7899DC;
+}
+.circulouno{
+	background-color: #FEFF92;	
+}
+.circulodos{
+	background-color: #0FEFBD;	
+}
+.circulotres{
+	background-color: #CFF800;	
+}
+.circulo{
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	display:inline-block;
+}
+.color1{
+	border: #0FEFBD 4px solid;
+}
+
+.color2{
+	border-color: #CFF800 4px solid;
+}
+.color3{
+	border-color: #FEFF92 4px solid;
+}
+
